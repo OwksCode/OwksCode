@@ -1,16 +1,15 @@
-## Hi there 👋
+# Kevin Hak
 
-<!--
-**OwksCode/OwksCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad (L3) at Université Évry Paris-Saclay, France. I like building things from first principles: implementing the math myself before reaching for a library.
 
-Here are some ideas to get you started:
+**Interests:** cryptography & security · algorithms · backend · numerical simulation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects**
+- [cryptokit](https://github.com/OwksCode/cryptokit): classical ciphers, RSA from scratch and LSB steganography as a Python CLI (53 tests)
+- [nbody](https://github.com/OwksCode/nbody): interactive N-body gravity simulation with a hand-written physics engine (Python, Pygame)
+
+**Stack:** Python · Java · OCaml · C · SQL · Git · Linux
+
+**Looking for** a 2–3 month software engineering internship (backend / security) in the Paris area, starting April 2027.
+
+[LinkedIn](https://www.linkedin.com/in/kevin-hak)
